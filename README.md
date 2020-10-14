@@ -4,7 +4,7 @@ I'm a young web developer but above all a very curious guy with a weird passion 
 
 ## What I'm doing ? 🔥
 
-Curently working at @p3ol in Bordeaux with some strange but very nice guys ❤️
+Curently working at [@p3ol](https://github.com/p3ol) in Bordeaux with some strange but very nice guys ❤️
 
 ## What are my skills ? 🤔
 
