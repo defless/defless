@@ -16,6 +16,6 @@ You can try to send me a homing pigeon or just use the shining but maybe [linked
 
 <br/>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defless&show_icons=true&locale=en&layout=compact" alt="saschasalles" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defless&show_icons=true&locale=en&layout=compact" alt="defless" />
   <img align='right' src="https://github-readme-stats.vercel.app/api?username=defless&count_private=true&show_icons=true" width="380">
 </p>
