@@ -13,3 +13,9 @@ I like to qualify myself as a JavaScript adventurer, a React slayer, a NodeJs lo
 ## How to contact me ? 🔮
 
 You can try to send me a homing pigeon or just use the shining but maybe [linkedin](https://www.linkedin.com/in/simon-deflesschouwer-6812a0172/) would be an easyer way 
+
+<br/>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defless&show_icons=true&locale=en&layout=compact" alt="saschasalles" />
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=defless&count_private=true&show_icons=true" width="380">
+</p>
