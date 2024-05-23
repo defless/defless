@@ -7,7 +7,7 @@
 
 # Hi, Hola, Bonjour, こんにちは 👋
 
-I'm a young web developer but above all a very curious guy with a weird passion for C15 (french grandpa's car 🚐) & food !
+I'm a web developer but above all a very curious guy with a weird passion for C15 (french grandpa's car 🚐) & food !
 
 ## What I'm doing ? 🔥
 
