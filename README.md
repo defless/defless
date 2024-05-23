@@ -15,7 +15,7 @@ Curently working at [@p3ol](https://github.com/p3ol) in Bordeaux with some stran
 
 ## What are my skills ? 🤔
 
-I like to qualify myself as a JavaScript adventurer, a React slayer, a NodeJs lover and a bunch of other things that you wouldn't expect ... 🧑‍💻
+I like to qualify myself as a Typescript adventurer, a NextJs slayer, a NodeJs lover and a bunch of other things that you wouldn't expect ... 🧑‍💻
 
 ## How to contact me ? 🔮
 
